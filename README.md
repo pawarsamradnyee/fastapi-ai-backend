@@ -4,7 +4,7 @@ A production-style AI backend built using **FastAPI** and **OpenAI API** that su
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
  https://fastapi-ai-backend.onrender.com/docs
 
@@ -185,7 +185,7 @@ Start: uvicorn main:app --host 0.0.0.0 --port $PORT
 
 ---
 
-## Interview Summary
+## Summary
 
 > Built a FastAPI-based AI backend integrated with OpenAI. The system validates input using Pydantic, constructs conversational context, sends it to the LLM, and returns structured responses. Deployed on Render using environment variables for secure configuration.
 
