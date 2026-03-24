@@ -6,7 +6,7 @@ A production-style AI backend built using **FastAPI** and **OpenAI API** that su
 
 ## 🌐 Live Demo
 
-👉 (Add your Render URL here after deployment)
+ https://fastapi-ai-backend.onrender.com/docs
 
 ---
 
